@@ -114,6 +114,9 @@ pip install -r requirements.txt
 ```bash
 python src/page_replacement_analyzer.py
 ```
+
+---
+
 ## 📥 Sample Input
 
 ```bash
@@ -124,7 +127,7 @@ Enter number of frames:
 3
 ```
 
-
+---
 
 ## 📂 Project Structure
 
