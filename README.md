@@ -102,22 +102,22 @@ Demonstrates how increasing memory frames affects algorithm performance.
 
 ##  How to Run the Project
 
-### 1️ Clone the repository
+- Clone the repository
 ```bash
 git clone https://github.com/your-username/page-replacement-algorithm-analyzer.git
 ```
 
-## 2 Navigate to the project directory
+-  Navigate to the project directory
 ```bash
 cd page-replacement-algorithm-analyzer
 ```
 
-## 3️ Install dependencies
+- 3️ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-## 4️ Run the analyzer
+- 4️ Run the analyzer
 ```bash
 python src/page_replacement_analyzer.py
 ```
