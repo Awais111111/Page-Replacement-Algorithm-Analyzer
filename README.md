@@ -1,6 +1,10 @@
 # Page Replacement Algorithm Analyzer
 
 A comprehensive **Operating Systems** project that simulates and analyzes multiple **page replacement algorithms** to understand how modern operating systems manage memory under limited physical resources.
+<p align="center">
+<img src="./herp.jpeg" alt="Page-replacement-algorithm-analyzer hero image>
+  
+</p>
 
 ---
 
